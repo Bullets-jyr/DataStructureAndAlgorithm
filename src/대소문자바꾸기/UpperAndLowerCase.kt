@@ -1,3 +1,5 @@
+package 대소문자바꾸기
+
 import java.util.*
 
 fun main() {
